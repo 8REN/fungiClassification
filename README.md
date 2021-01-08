@@ -47,3 +47,7 @@
 ** population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
 
 ** habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
+
+##  Comparing feature selection options to determine which features are most indicative of edibility in mushrooms.
+
+Goal is to improve on type ii errors with fewest features as possible
