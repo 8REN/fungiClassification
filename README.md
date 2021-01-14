@@ -51,3 +51,4 @@
 ##  Comparing feature selection options to determine which features are most indicative of edibility in mushrooms.
 
 Goal is to improve on type ii errors with fewest features as possible
+minimizing overfitting, which occurs when using all features
